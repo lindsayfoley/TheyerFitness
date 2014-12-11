@@ -1,0 +1,34 @@
+#about_text_boxes {
+	height: 405px;	
+}
+
+
+#about_header {
+	padding-top: 20px;
+}
+
+.about_me_h2 {
+	margin: 0px 0px 9px 0px;
+    padding-top: 30px;   
+}
+
+#about_left_col, #about_right_col {
+	width: 400px;
+	line-height: 25px;
+}
+
+#about_left_col {
+	float: left;
+	margin-left: 80px;
+}
+
+#about_right_col {
+	float: right;
+	margin-right: 80px;	
+}
+
+.text_links {
+	text-decoration: underline;
+	color: #3C2F91;
+}
+

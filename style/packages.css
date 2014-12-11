@@ -1,0 +1,56 @@
+#packages_content {
+	margin: 30px 80px 0px 80px;
+        width: 840px;
+}
+
+
+.package_headers {
+	margin-bottom: 10px;
+	margin-top: 10px;
+	
+}
+
+.packages_text {
+	margin-top: 0px;
+	line-height: 21px;
+	font-size: 13px;
+	color: #333333;
+	margin-bottom: 0px;
+}
+
+ol li {
+	color: black;
+        font-size: 13px;
+	margin-top: 0px;
+	line-height: 21px;
+}
+
+
+#personal_training ul li {
+	list-style-type: none;
+	color: #3c2f91;
+	font-weight: bold;
+        font-size: 15px;
+	margin-top: 0px;
+	line-height: 21px;
+	
+}
+
+
+ul {
+	padding-left: 0px;
+	margin-top: 20px;
+}
+
+.list_indent {
+	padding-left: 40px;	
+}
+
+
+#packages_h3_no_gaps {
+	color: #3c2f91;
+	font-weight: bold;
+        font-size: 15px;
+        margin-bottom: 0px; 
+	margin-top: 20px;
+}

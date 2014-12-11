@@ -1,0 +1,117 @@
+#testimonials_opening_text {
+	text-align:center;
+}
+
+#testimonial_header {
+	font-size: 25px;
+	padding-top: 30px;
+	margin: 0px;
+}
+
+#opening_header_subtext {
+	padding-right: 160px;
+	text-align: right;
+	margin-top: 0px;
+}
+
+#left_column {
+	margin-left: 80px;
+	float: left;
+}
+
+
+#scott_test {
+	background-image: url(/images/speech_box.png);
+	width: 380px;
+	height: 286px;
+        margin-bottom: 30px;
+}
+
+#gail_test {
+	background-image:url(/images/speech_box_large.png);
+	width: 395px;
+	height: 450px;
+}
+
+#right_column {
+	margin-right: 80px;
+	float: right;
+}
+
+#sandra_test {
+	background-image: url(/images/speech_box.png);
+	width: 380px;
+	height: 286px;
+        margin-bottom: 30px;
+}
+
+#simone_test, #mandy_test {
+	width: 350px;
+	height: 200px;
+	background-image:url(/images/speech_box_small.png);
+        margin-left: 25px;
+}
+
+#gail_test, #mandy_test {
+        margin-bottom: 30px;
+}
+
+#simone_test {
+	margin-bottom: 29px;
+}
+
+.speech_bubble_text_1 {
+	line-height: 21px;
+	padding: 70px 15px 0px 15px;
+	text-align: center;
+}
+
+#speech_bubble_text_1_gail {
+	line-height: 21px;
+	padding: 83px 15px 0px 15px;
+	text-align: center;
+}
+
+#speech_bubble_text_2 {
+	line-height: 21px;
+	padding: 60px 15px 0px 20px;
+	text-align: center;
+	
+}
+
+.speech_bubble_text_3 {
+	line-height: 20px;
+	padding: 51px 15px 0px 20px;
+	text-align: center;
+}
+
+#testimonial_scott {
+	padding: 23px 0px 0px 213px;
+}
+
+#testimonial_sandra {
+	padding: 22px 0px 0px 228px;	
+}
+
+
+#testimonial_simone {
+	padding-left: 186px;	
+}
+
+
+#testimonial_gail {
+	padding: 46px 0px 0px 231px;
+}
+
+#testimonial_mandy {
+	padding-left: 197px;
+}
+
+#testimonial_mandy, #testimonial_gail, #testimonial_scott, #testimonial_simone, #testimonial_sandra, #opening_header_subtext {
+	color: #3c2f91;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 14px;	
+}
+
+

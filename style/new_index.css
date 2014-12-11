@@ -1,0 +1,219 @@
+body {
+	margin: 0px auto;
+	font-family: Arial, Helvetica, sans-serif;
+	width: 1000px;
+	background-color: #ECEDEC;
+	-webkit-text-size-adjust: 100%;
+}
+
+
+h1 {
+	font-size: 15px;
+	color: #3C2F91; 
+    text-align: center;
+}
+
+img {
+	border: 0;	
+}
+
+.wrap {
+	width: 1000px;
+	margin: 0 auto;
+}
+
+#header_nav_wrap {
+	position: relative;
+	width: 1000px;
+	height: 226px;
+	margin: 0 auto;
+}
+
+#header_bg {
+	position: absolute;
+	opacity: 0.93;
+	top: 36px;
+}
+
+#header_logo {
+	top: 74px;
+	left: 375px;
+	position: absolute;
+}
+
+#header {
+	margin: 0 auto;
+    border-bottom: 32px solid black;
+	background-color: #ecedec;
+	height: 186px;
+}
+
+
+#nav {
+	position: absolute;
+	width: 100%;
+	height: 20px;	
+	top: 180px;
+	margin: 0 auto;
+}
+
+#nav ul {
+	margin: 0 auto;
+	width: 920px;
+	padding: 10px 0px 10px 80px;
+}
+
+#nav li {
+	display: inline;
+	text-align: center;
+	color: white;
+	width: 1000px;
+	font-size: 14px;
+	padding: 10px 4%;
+}
+
+#nav li a {
+	text-decoration: none;
+	color: white;
+}
+
+#nav li a:hover {
+	color: #e31730;
+}
+
+#current_page {
+       color: #e31730!important;
+       text-decoration: underline;
+}
+
+#footer {
+	height: 70px;
+	clear: both;
+	width: 1000px;
+	border-top: 6px solid #E7E5E5;
+	margin-top: 40px;
+    font-size: 14px;
+}
+
+#footer a {
+	color: #333333;
+	text-decoration: none;
+}
+
+#footer div {
+	color: #333333;
+	background-color: white;
+	padding-top: 20px;
+}
+
+#copyright_text {
+	float: left;	
+	margin-left: 80px;
+}
+
+#content {
+	width: 1000px;
+        margin-top: 2px;
+	background-color: white;
+	border-top: 6px solid #ecedec;
+        position: relative;
+}
+
+
+p {
+	color: #333333;
+        font-size: 13px;
+}
+
+
+
+#opening_p {
+	float: left;
+	width: 550px;
+	height: 310px;
+	margin: 30px 0px 0px 80px;
+	text-align: left;
+	font-size: 14px;
+ 	line-height: 21px;
+}
+
+#social_section {
+	clear: both;
+	margin: 20px 80px 0px 80px;
+	padding-top: 20px;
+	width: 840px;
+    height: 150px;
+}
+	
+#social_icons {
+	width: 110px;
+	margin-right: 80px;
+	float: right;
+    border: 0;	
+}
+
+#fb_icon {
+	float: left;
+	padding-right: 12px;
+}
+
+#twitter_icon {
+	float: left;
+	padding-right: 12px;
+}
+
+#blog_icon {
+	float: left;
+}
+
+#want_a_new_you {
+	width: 250px;
+	font-size: 16px;
+	float: left;
+	padding: 0px 45px 0px 45px;
+		
+}
+
+#keep_up_to_date {
+	width: 250px;
+	font-size: 16px;
+	float: left;
+	
+}
+
+#training_with_me {
+	width: 250px;
+	font-size: 16px;
+	float: left;
+}
+
+
+h2 {
+	color: #3c2f91;
+	font-weight: bold;
+        font-size: 15px;
+        margin-bottom: 4px;
+}
+
+.text_column_layout {
+	margin: 0px;
+	color: black;
+	line-height: 23px;
+}
+
+#header_clear {
+	clear: both;	
+}
+
+#tailor_made {
+	margin-top: 10px;	
+}
+
+#find_out_more_hero_link {
+	position: absolute;
+	display: block;
+	width: 181px;
+	height: 33px;
+    top: 315px;
+	background-image:url("about:blank");
+}

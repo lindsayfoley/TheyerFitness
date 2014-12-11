@@ -1,0 +1,50 @@
+#merchandise_content {
+	margin: 30px 80px 0px 80px;
+    width: 840px;
+}
+
+#merchandise_content_holder {
+	width: 840px;
+	height: 450px;
+	
+}
+
+#colour_swatch {
+	height: 206px;
+	width: 322px;
+	padding-top: 45px;
+	padding-left: 7px;
+	float: left;
+}
+
+#tshirt_image {
+	float: left;
+	padding-top: 17px;
+	width: 510px;
+	height: 264px;
+}
+.merchandise_text {
+	margin-top: 0px;
+	line-height: 23px;
+	font-size: 13px;
+	color: #333333;
+	margin-bottom: 0px;
+}
+
+#merchandise_bold_text {
+	color: #3c2f91;
+	font-weight: bold;
+    font-size: 15px;
+    margin-bottom: 0px; 
+	margin-top: 20px;
+}
+
+#order_text {
+	clear: left;
+	padding-top: 10px;
+}
+
+#shop_contact {
+	color: #333333;
+	text-decoration: underline;
+}
